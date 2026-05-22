@@ -1,0 +1,24 @@
+{
+  "_comment": "소수몽키 유튜브 자동요약 봇이 이미 텔레그램으로 발송한(또는 발송 불필요로 처리한) 영상 ID 기록. 이 목록에 있는 영상은 다시 발송하지 않는다. sosumonkey-youtube-telegram 스케줄 작업이 매 실행마다 읽고 갱신한다.",
+  "channel": "소수몽키",
+  "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+  "seeded_at": "2026-05-22T13:29:45Z",
+  "last_updated": "2026-05-22T13:29:45Z",
+  "sent_ids": [
+    "vAGGVtkk5Z8",
+    "1QL1zOXTFHo",
+    "zjnKEmJgNHY",
+    "oSiADmzgXLg",
+    "xMag2KMsBWE",
+    "1QPGDu_SePo",
+    "BVFa1YtDUAA",
+    "ei3xMptOhlA",
+    "DxdK26BQJYY",
+    "mqaBDzpEZnw",
+    "Dw5Rh2VstLc",
+    "qvR2o1LFK6M",
+    "B-fSbAaFH6c",
+    "kyMme-CBqwI",
+    "nsTUU5dPD64"
+  ]
+}
